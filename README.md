@@ -9,7 +9,6 @@
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)](https://nodejs.org/)
 [![Zustand Badge](https://img.shields.io/badge/-Zustand-000000?style=flat-square\&logo=react\&logoColor=white)]()
 [![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square\&logo=jest\&logoColor=white)](https://jestjs.io/)
-[![Testing Library Badge](https://img.shields.io/badge/-Testing%20Library-E33332?style=flat-square\&logo=testinglibrary\&logoColor=white)](https://testing-library.com/)
 
 ---
 
