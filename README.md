@@ -2,9 +2,9 @@
 
 **Desenvolvedor | Front-end | React | Js | Ts | Next.js | Node.js | Architecture, Microfrontends, TDD & Performance**
 
-[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)](https://nextjs.org/)
 [![React Badge](https://img.shields.io/badge/-React-222222?style=flat-square\&logo=react\&logoColor=61dafb)](https://react.dev/)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)](https://nextjs.org/)
 [![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)](https://vitejs.dev/)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)](https://nodejs.org/)
 [![Zustand Badge](https://img.shields.io/badge/-Zustand-000000?style=flat-square\&logo=react\&logoColor=white)]()
